@@ -5,5 +5,6 @@ heading {
   }
 
 div {
-  background-color: #FFFF00
+  background-color: #FFFF00;
+  margin: auto;
 }
